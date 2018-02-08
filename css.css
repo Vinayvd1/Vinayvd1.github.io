@@ -2,9 +2,9 @@
 body{
 	background-color:black;
 	font-family: cursive;
-color:white
+    color:white;
 }
-#main{
+  #main{
    color:white;
    background-color: black;
    border-top: 2px solid white;
@@ -24,7 +24,8 @@ color:white
    
     border-radius: 500px ;
           margin: 20px;
-          height: 300px;
+         
+          width:20%;
     }
    #img:hover{
    	 border: 2px solid rgb(217, 255, 102);
@@ -33,10 +34,22 @@ color:white
     p{
     	color:white;
     }
-ul{
-    	margin-top: 100px;
-    	color: blue;
-    }
     span{text-decoration: underline;
 
     }
+    div{
+    	background-color: rgb(255, 190, 65);
+    	border:2px solid blue;
+    	height:250px;
+        width: 150px; 	    	
+        color: blue;      	
+
+    }
+    .para{
+    	position: absolute;
+    	color:blue;
+    	width:50%;
+    	top: 150px;
+    	left:200px;
+    }
+    
