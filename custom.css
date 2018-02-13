@@ -5,8 +5,26 @@
 	}
 
 .para-size{
+	background-color: #F28B53;
 	padding:  10px;
 }	
-body{
-	background-color: #123FE7;
+main-page{
+	background-color: #191F35;
+}
+
+.uttra{
+	padding: 80px 120px;
+	color: black;
+	background-image: url(https://scontent.fdel12-1.fna.fbcdn.net/v/t1.0-9/10245372_10152309806444836_6745613295295902447_n.jpg?oh=b0f4133260bea1954590887fe5e62fc1&oe=5B123252));
+}
+
+.second-page{
+	background-image: url(https://scontent.fdel12-1.fna.fbcdn.net/v/t1.0-9/10245372_10152309806444836_6745613295295902447_n.jpg?oh=b0f4133260bea1954590887fe5e62fc1&oe=5B123252);
+}
+
+.jumbotron{
+	background-image: url(https://scontent.fdel12-1.fna.fbcdn.net/v/t1.0-9/10245372_10152309806444836_6745613295295902447_n.jpg?oh=b0f4133260bea1954590887fe5e62fc1&oe=5B123252));
+}
+.background{
+	background-image: url(https://scontent.fdel12-1.fna.fbcdn.net/v/t1.0-9/10245372_10152309806444836_6745613295295902447_n.jpg?oh=b0f4133260bea1954590887fe5e62fc1&oe=5B123252);
 }
